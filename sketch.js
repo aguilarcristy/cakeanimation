@@ -11,7 +11,7 @@ function preload() {
   //create an animation from a sequence of numbered images
   //pass the first and the last file name and it will try to find the ones in between
   cake = loadAnimation('cake1.png','cake3.png','cake2.png','cake4.png','cake5.png','cake6.png','cake7.png','cake7.png');
-  
+
 }
 
 function setup() {
