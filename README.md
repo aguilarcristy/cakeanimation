@@ -9,6 +9,3 @@ I would like to be able to use p5.play.
 ### Timeline:
 
 Project Started:
-Basic Outline by 04/?/2022
-Semi-Advanced Outline 04/?/2022
-Advanced/Final Outline by 04/?/2022
