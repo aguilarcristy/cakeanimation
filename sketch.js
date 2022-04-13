@@ -16,10 +16,14 @@ function preload() {
 
 function setup() {
   createCanvas(900, 900);
+//showing canvas pls work pls work
+let canvas= createCanvas(400,400);
+canvas.parent('myCanvas');
+background(255, 247, 189);
+
 }
 
 function draw() {
-  background(255, 247, 189);
 
   //specify the animation instance and its x,y position
   //animation() will update the animation frame as well
